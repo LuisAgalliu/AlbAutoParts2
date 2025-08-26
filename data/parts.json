@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "name": "Filtër Vaji BMW",
+    "description": "Filtër vaji cilësor për BMW seri 3, 5 dhe X3. Garanton performancë optimale të motorit.",
+    "price": 2500,
+    "category": "Filtra",
+    "brand": "BMW",
+    "inStock": true,
+    "image": "/bmw-oil-filter.png"
+  },
+  {
+    "id": "2",
+    "name": "Disk Freni Mercedes",
+    "description": "Disk freni i përparmë për Mercedes-Benz C-Class dhe E-Class. Cilësi e lartë dhe qëndrueshmëri.",
+    "price": 8500,
+    "category": "Frena",
+    "brand": "Mercedes",
+    "inStock": true,
+    "image": "/mercedes-brake-disc.png"
+  },
+  {
+    "id": "3",
+    "name": "Amortizator Audi",
+    "description": "Amortizator i pasëm për Audi A4 dhe A6. Komfort maksimal në vozitje.",
+    "price": 12000,
+    "category": "Pezullim",
+    "brand": "Audi",
+    "inStock": false,
+    "image": "/audi-shock-absorber.png"
+  },
+  {
+    "id": "4",
+    "name": "Bateri Volkswagen",
+    "description": "Bateri 12V 70Ah për Volkswagen Golf, Passat dhe Tiguan. Garanci 2 vjet.",
+    "price": 15000,
+    "category": "Elektrike",
+    "brand": "Volkswagen",
+    "inStock": true,
+    "image": "/car-battery-volkswagen.png"
+  },
+  {
+    "id": "5",
+    "name": "Gomë Dimërore Michelin",
+    "description": "Gomë dimërore 205/55R16 Michelin. Siguri maksimale në kushte dimërore.",
+    "price": 18000,
+    "category": "Goma",
+    "brand": "Michelin",
+    "inStock": true,
+    "image": "/michelin-winter-tire.png"
+  },
+  {
+    "id": "6",
+    "name": "Radiator Ford",
+    "description": "Radiator ftohës për Ford Focus dhe Fiesta. Sistem ftohje efikas.",
+    "price": 9500,
+    "category": "Ftohje",
+    "brand": "Ford",
+    "inStock": true,
+    "image": "/ford-radiator-cooling-system.png"
+  }
+]
